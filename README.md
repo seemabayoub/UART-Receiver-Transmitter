@@ -1,4 +1,4 @@
-# UART Receiver and Transmitter in Verilog HDL
+# UART Receiver and Transmitter in SystemVerilog HDL
 
 ## Overview
 
